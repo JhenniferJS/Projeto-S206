@@ -1,9 +1,9 @@
 # Projeto S206
 
 - [Sobre](#sobre)
-- [Pre requisitos](#pré-requisitos)
-- [Como executar](#como-executar)
+- [Pré requisitos](#pré-requisitos)
 - [Tecnologias](#tecnologias)
+- [Como executar](#como-executar)
 
 
 ## Sobre
