@@ -8,9 +8,7 @@
 
 ## Sobre
 
-Este é o nosso projeto de Qualidade de Software (S206).  
-
-Versão em Desenvolvimento <br/>
+Este é o nosso projeto de Qualidade de Software (S206), no qual realizamos testes de UI utilizando o framework SeleniumWebDriver.
 
 ---
 
