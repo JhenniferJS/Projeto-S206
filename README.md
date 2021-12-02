@@ -26,17 +26,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## Tecnologias
 
-### Ferramentas e Serviços
 - [Git](https://git-scm.com/)
 - [Java](https://www.java.com) - Versão 1.8
-
-
-### Dependências de desenvolvimento
-- [Maven](https://maven.apache.org)
+- [ChromeDriver](https://chromedriver.chromium.org/downloads) - Versão 96.0.4664.45
+- [MsDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Versão 96.0.1054.41
 - [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
-- [ChromeDriver](https://chromedriver.chromium.org/downloads)
-- [MsDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-
+- [Maven](https://maven.apache.org)
 
 ## Como executar
 
